@@ -3,9 +3,9 @@
 Simple website developed as a learning practice in an online course.
 
 <p >
-<img width="40%" height="40%" src="assets/images/page1.jpg">
-<img width="40%" height="40%" src="assets/images/page2.jpg">
-<img width="40%" height="40%" src="assets/images/page3.jpg">
+<img margin-right="20px" width="20%" height="20%" src="assets/images/page1.jpg"> &nbsp;&nbsp;
+<img width="20%" height="20%" src="assets/images/page2.jpg"> &nbsp;&nbsp;
+<img width="20%" height="20%" src="assets/images/page3.jpg">
 </p>
 
 ## Learning Objectives
